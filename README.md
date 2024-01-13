@@ -6,8 +6,7 @@ First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, 
 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a Twitter card with Flexbox, and a complex blog layout with CSS Grid.
 
-Major Topics:
-
+# Major Topics:
 Basic HTML and HTML5
 Basic CSS
 Applied Visual Design
@@ -16,8 +15,9 @@ Responsive Web Design Principles
 CSS Flexbox
 CSS Grid
 Responsive Web Design Projects
-Syllabus
-Say Hello to HTML Elements
+
+# Syllabus
+HTML Elements
 Headline with the strong Element
 Inform with the Paragraph Element
 Fill in the Blank with Placeholder Text
